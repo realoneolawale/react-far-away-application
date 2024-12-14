@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDom from "react-dom/client";
 import "./index.css";
-import App from "./App";
+import App from "./components/App";
 
 // React V18
 const root = ReactDom.createRoot(document.getElementById("root"));
